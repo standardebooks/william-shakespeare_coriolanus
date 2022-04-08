@@ -43,10 +43,10 @@
 		<meta property="se:subject">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A famous Roman general wants to run for consul.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description.&lt;/p&gt;
-			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;Rome has transitioned from a monarchy to a republic. The last king of Rome was dead, and the Senate and rich aristocrats now control Rome. The citizens are starting to riot due to a food shortage. The plebeians blame the patrician Caius Marcius for hoarding the grain and setting prices. Marcius believes the citizens do not deserve grain if they never served in the military. To calm the plebeians, five tribunes are chosen to represent the common people in legal matters. Soon after, a Volscian army attacks, and Marcius leaves the city to fight.&lt;/p&gt;
+			&lt;p&gt;After a successful siege on the city Corioli and the defeat of the Volscian army, Caius Marcius is rewarded the name Caius Marcius Coriolanus. The war hero returns to Rome as well-loved by the Republic Senate and most plebeians. Coriolanus is encouraged to pursue politics and run for consul, a position that is elected by the people. There are others like the tribunes Brutus and Sicinius who still remember Coriolanus’ disdain for plebeians and view him as an enemy.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
