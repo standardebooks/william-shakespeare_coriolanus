@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakespeare/coriolanus</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-04-12T03:17:55Z</dc:date>
+		<meta property="dcterms:modified">2022-04-12T03:17:55Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,16 +45,16 @@
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A famous Roman general wants to run for consul.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Rome has transitioned from a monarchy to a republic. The last king of Rome was dead, and the Senate and rich aristocrats now control Rome. The citizens are starting to riot due to a food shortage. The plebeians blame the patrician Caius Marcius for hoarding the grain and setting prices. Marcius believes the citizens do not deserve grain if they never served in the military. To calm the plebeians, five tribunes are chosen to represent the common people in legal matters. Soon after, a Volscian army attacks, and Marcius leaves the city to fight.&lt;/p&gt;
-			&lt;p&gt;After a successful siege on the city Corioli and the defeat of the Volscian army, Caius Marcius is rewarded the name Caius Marcius Coriolanus. The war hero returns to Rome as well-loved by the Republic Senate and most plebeians. Coriolanus is encouraged to pursue politics and run for consul, a position that is elected by the people. There are others like the tribunes Brutus and Sicinius who still remember Coriolanus’ disdain for plebeians and view him as an enemy.&lt;/p&gt;
-			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
+			&lt;p&gt;Rome has transitioned from a monarchy to a republic. The last king of Rome was dead, and the Senate and rich aristocrats now control Rome. The citizens are starting to riot due to a food shortage. The plebeians blame the patrician Caius Marcius for hoarding grain and fixing prices, but Marcius believes the citizens don’t deserve grain if they’ve never served in the military. To calm the plebeians, five tribunes are chosen to represent the common people in legal matters. Soon after, a Volscian army attacks, and Marcius leaves the city to fight.&lt;/p&gt;
+			&lt;p&gt;After a successful siege on the city of Corioli and the defeat of the Volscian army, Caius Marcius is rewarded with the name of Caius Marcius Coriolanus. He returns to Rome a hero, beloved by both the Senate the plebeians. Coriolanus is encouraged to pursue politics and run for consul, a position elected by the people. There are others, like the tribunes Brutus and Sicinius, who still remember Coriolanus’ disdain for the plebeians and view him as an enemy.&lt;/p&gt;
+			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/coriolanus/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">29911</meta>
+		<meta property="se:reading-ease.flesch">72.56</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Coriolanus</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_coriolanus</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
@@ -80,6 +80,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://astart.ca</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
