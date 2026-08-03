@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-shakespeare/coriolanus</dc:identifier>
 		<dc:date>2022-04-12T03:17:55Z</dc:date>
@@ -45,12 +45,12 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">A famous Roman general wants to run for consul.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A famous Roman general wants to run for consul.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Rome has transitioned from a monarchy to a republic. The last king of Rome was dead, and the Senate and rich aristocrats now control Rome. The citizens are starting to riot due to a food shortage. The plebeians blame the patrician Caius Marcius for hoarding grain and fixing prices, but Marcius believes the citizens don’t deserve grain if they’ve never served in the military. To calm the plebeians, five tribunes are chosen to represent the common people in legal matters. Soon after, a Volscian army attacks, and Marcius leaves the city to fight.&lt;/p&gt;
 			&lt;p&gt;After a successful siege on the city of Corioli and the defeat of the Volscian army, Caius Marcius is rewarded with the name of Caius Marcius Coriolanus. He returns to Rome a hero, beloved by both the Senate and the plebeians. Coriolanus is encouraged to pursue politics and run for consul, a position elected by the people. There are others, like the tribunes Brutus and Sicinius, who still remember Coriolanus’ disdain for the plebeians and view him as an enemy.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/coriolanus/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
